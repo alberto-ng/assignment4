@@ -11,3 +11,5 @@ does not do anything at the moment, have not finished
 
 To compile: "make all"  
 To run "./assignment4.out xxx.txt"  
+
+references: youtube and online resources for general c++ guidance
